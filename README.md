@@ -1,7 +1,9 @@
 <h1>Alurabook</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura, com foco em arrays. A aplicação simula uma loja de livros, onde é possível através de métodos de arrays filtrar por categorias, livros disponíveis e ordenar por preço. </p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura, com foco em arrays. A aplicação simula uma loja de livros, onde é possível através de métodos de arrays filtrar por categorias, livros disponíveis e ordenar por preço. É necessário utilizar o json-server para acessar a aplicação. </p>
+
+[Acessar a página]( https://brunomartins.github.io/metodos-de-array/)
 
 ## 🚀 Tecnologias
 <div>
